@@ -1,0 +1,6 @@
+spring:
+  message: Hello world from development environment
+   
+## profile for dev environment port.
+server:
+  port: 8000

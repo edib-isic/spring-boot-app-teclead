@@ -1,0 +1,6 @@
+spring:
+  message: Hello world from production environment
+   
+## profile for prod environment port.
+server:
+  port: 9000
