@@ -22,4 +22,5 @@ Folgende Punkte sind gelöst :
 
 
 
-Postman Requests
+The REST API Documentation you can find 
+https://documenter.getpostman.com/view/913252/TzRPi91E
